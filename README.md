@@ -6,5 +6,10 @@ My opinion on AI is rather biased **against** the use of artificial intelligence
 
 _I hope this is enough for me to let you know my opinions on AI usage._
 
+<! -- Not sure that markdown supports underscore or if that is what you were goin for in the line above -->
+
 Sincerely,
 Spencer Davis
+
+
+Effective use of markdown, Spencer. Thanks.
